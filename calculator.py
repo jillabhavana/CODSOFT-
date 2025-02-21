@@ -11,7 +11,7 @@ def calculate(num1, num2, operation):
     else:
         return "that doesn't look like a valid operation."
 
-print("Welcome to the Simple Calculator! 😊")
+print("Welcome to the Simple Calculator!")
 print("You can add (+), subtract (-), multiply (*), or divide (/).")
 
 #input
